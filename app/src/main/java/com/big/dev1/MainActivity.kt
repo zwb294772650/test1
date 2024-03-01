@@ -48,7 +48,3 @@ fun GreetingPreview() {
     Log.v("zwb","222")
 }
 
-@Composable
-private fun extracted() {
-    L
-}
