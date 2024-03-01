@@ -1,6 +1,7 @@
 package com.big.dev1
 
 import android.os.Bundle
+import android.util.Log
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
@@ -43,4 +44,10 @@ fun GreetingPreview() {
     Dev1Theme {
         Greeting("Android")
     }
+   Log.v("zwb","1111")
+}
+
+@Composable
+private fun extracted() {
+    L
 }
