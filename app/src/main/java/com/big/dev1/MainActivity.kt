@@ -45,6 +45,7 @@ fun GreetingPreview() {
         Greeting("Android")
     }
    Log.v("zwb","1111")
+    Log.v("zwb","222")
 }
 
 @Composable
